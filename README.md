@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](http://github.com/randomrans/homelab)
+- [Active Directory Home Lab](https://github.com/RandomRans/ActiveDirectoryLab)
 - [SIEM Home Lab](http://github.com/randomrans/siemlab)
 
 

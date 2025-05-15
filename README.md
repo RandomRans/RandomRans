@@ -54,8 +54,6 @@ Simple scripts for Windows automation like user creation, log collection, and ta
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamisha-ransom)
 
-📫 Email: **tlransom89@yahoo.com**
-
 ---
 
 _Thanks for visiting my GitHub! I'm always learning, building, and growing in IT._

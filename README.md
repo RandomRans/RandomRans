@@ -17,8 +17,15 @@ I'm actively seeking entry-level roles in:
 ### 🖥️ [Active Directory Lab – Rebuild (Coming Soon)](https://github.com/RandomRans)
 Setting up on-prem AD with Hyper-V, PowerShell scripting, OUs, users, and GPOs.
 
-### 📊 [SQL Query Playground (Coming Soon)](https://github.com/RandomRans)
-Custom SQL scripts for real-world scenarios like reporting, scheduling, and audits. Will include `.sql` files and Excel integration.
+### 📘 SQL Query Playground
+Custom SQL scripts for real-world scenarios like healthcare scheduling, employee tracking, login audits, and reporting.  
+Includes:
+- `.sql` files for filtering, joins, subqueries, and aggregations
+- Sample outputs with screenshots from MySQL Workbench
+- Organized queries by use case: appointments, HR, security
+
+📸 [View screenshots](https://github.com/RandomRans/SQL-Query-Playground/tree/main/screenshots)
+
 
 ### 🔍 [Splunk SIEM Lab (In Progress)](https://github.com/RandomRans)
 Monitoring logs, detecting brute-force attempts, and building dashboards with SPL queries.

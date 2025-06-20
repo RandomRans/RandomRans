@@ -5,10 +5,10 @@
 
 I'm a dedicated learner with a strong foundation in federal service, technical support, and systems administration. I hold multiple industry certifications and I'm building hands-on experience through personal labs and technical projects focused on cybersecurity, system administration, and SQL reporting.
 
-I'm actively seeking entry-level roles in:
-- IT Support / Help Desk
-- Junior Systems Administrator
-- Cybersecurity Analyst (Trainee)
+I'm actively building toward remote roles such as:
+- SOC Analyst (Tier 1)
+- Junior Linux/System Administrator
+- Cloud Support Technician (AWS)
 
 ---
 

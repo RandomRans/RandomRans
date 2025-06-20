@@ -1,59 +1,43 @@
 # 👋 Hi, I'm Tamisha Ransom-Goggins
 
-🎖️ U.S. Air Force Veteran | 💻 Aspiring IT & Cybersecurity Professional  
-📚 B.S. in Information Technology (In Progress) | Western Governors University  
+🎖️ U.S. Air Force Veteran | 💻 IT & Cybersecurity Trainee  
+🎓 B.S. in Information Technology (In Progress) | Western Governors University
 
-I'm a dedicated learner with a strong foundation in federal service, technical support, and systems administration. I hold multiple industry certifications and I'm building hands-on experience through personal labs and technical projects focused on cybersecurity, system administration, and SQL reporting.
+---
 
-I'm actively building toward remote roles such as:
+I'm a dedicated and driven learner transitioning into the tech field after over 15 years of federal experience. I hold several industry certifications including CompTIA Security+, Network+, A+, Linux Essentials, and I'm currently studying for the AWS Certified Cloud Practitioner exam. I'm gaining hands-on experience by building technical projects in system administration, cybersecurity, and cloud computing.
+
+---
+
+### 🔍 I’m currently focused on:
+- Monitoring logs and detecting threats using Splunk and SIEM tools
+- Linux system administration and shell scripting (user management, crontab, permissions)
+- Cloud fundamentals with AWS (IAM, EC2, S3, CloudWatch)
+- Writing SQL queries for real-world data filtering and reporting
+
+---
+
+### 💼 Actively pursuing remote entry-level roles like:
 - SOC Analyst (Tier 1)
-- Junior Linux/System Administrator
-- Cloud Support Technician (AWS)
+- Junior System Administrator (Linux or Windows)
+- Cloud Support Technician
+- Cybersecurity Analyst (Trainee)
 
 ---
 
-## 🔧 Projects
-
-### 🖥️ [Active Directory Lab – Rebuild (Coming Soon)](https://github.com/RandomRans)
-Setting up on-prem AD with Hyper-V, PowerShell scripting, OUs, users, and GPOs.
-
-### 📘 SQL Query Playground
-Custom SQL scripts for real-world scenarios like healthcare scheduling, employee tracking, login audits, and reporting.  
-Includes:
-- `.sql` files for filtering, joins, subqueries, and aggregations
-- Sample outputs with screenshots from MySQL Workbench
-- Organized queries by use case: appointments, HR, security
-
-📸 [View screenshots](https://github.com/RandomRans/SQL-Query-Playground/tree/main/screenshots)
-
-
-### 🔍 [Splunk SIEM Lab (In Progress)](https://github.com/RandomRans)
-Monitoring logs, detecting brute-force attempts, and building dashboards with SPL queries.
-
-### 🛡️ [Azure Sentinel SIEM Lab](https://github.com/RandomRans/SIEMHomeLab)
-Set up a honeypot VM connected to Azure Sentinel to observe real attacks. Used PowerShell to map attacker locations.
-
-### ⚙️ [PowerShell Practice (Coming Soon)](https://github.com/RandomRans)
-Simple scripts for Windows automation like user creation, log collection, and task scheduling.
+### 🧠 Certifications & Progress:
+- ✅ CompTIA Security+, Network+, A+, ITIL Foundations
+- ✅ LPI Linux Essentials
+- 📚 AWS Certified Cloud Practitioner (in progress)
 
 ---
 
-## 📜 Certifications
-
-- ✅ CompTIA A+
-- ✅ CompTIA Network+
-- ✅ CompTIA Security+
-- ✅ CompTIA Project+
-- ✅ Linux Essentials
-- ✅ Google IT Support Professional
-- ✅ ITIL 4 Foundations
+### 📁 Featured Projects
+- **[Cyber Lab Exercises](https://github.com/tamisha-tech/cyber-lab-exercises)** – Hands-on log analysis, SIEM detection, and IR notes
+- **[SQL Query Playground](https://github.com/tamisha-tech/SQL-Query-Playground)** – Real-world SQL use cases and output screenshots
+- **[Splunk SIEM Lab](https://github.com/tamisha-tech/SIEMHomeLab)** – Monitoring events, brute force attempts, and dashboard practice
+- **[Active Directory Lab (Coming Soon)](https://github.com/tamisha-tech/ActiveDirectoryLab)** – PowerShell + Hyper-V AD environment
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamisha-ransom)
-
----
-
-_Thanks for visiting my GitHub! I'm always learning, building, and growing in IT._
+📫 Let’s connect on [LinkedIn](https://linkedin.com/in/tamisha-ransom)
